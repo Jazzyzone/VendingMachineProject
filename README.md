@@ -73,12 +73,7 @@ process menu:
          >```
 9. Create as many of your classes as possible to be "testable" classes. Limit console
 input and output to as few classes as possible.
-10. Optional - Sales Report
-    - Provide a "Hidden" menu option on the main menu ("4") that writes to a sales
-    report that shows the total sales since the machine was started. The name of the
-    file must include the date and time so each sales report is uniquely named.
-    - An example of the output format is provided below.
-11. Provide unit tests demonstrating that your code works correctly.
+
 ___
 ### Vending Machine Data File
 The input file that stocks the vending machine products is a pipe `|` delimited file. Each line is a separate product in the file and follows the below format:
